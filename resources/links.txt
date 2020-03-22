@@ -1,0 +1,43 @@
+https://archive.ics.uci.edu/ml/datasets/student+performance
+
+1. Credit-Risk-Modeling:
+	dataset: https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
+	code:
+		https://github.com/guaisang/Data_Science_Projects/blob/master/03-credit-card-default-prediction/Project%20Code.ipynb
+		https://github.com/alexpnt/Default-Credit-Card-Prediction
+	report: 
+		https://github.com/nishant1005/Credit-Risk-Modeling-using-Machine-Learning
+		https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset
+		https://www.researchgate.net/publication/309638452_Credit_Card_Fraud_Detection_using_Big_Data_Analytics_Use_of_PSOAANN_based_One-Class_Classification
+		http://www.mat.ucm.es/congresos/mweek/XII_Modelling_Week/Informes/Report3.pdf
+		https://medium.com/@guaisang/credit-default-prediction-with-logistic-regression-b5bd89f2799f
+		http://salserver.org.aalto.fi/opinnot/mat-2.4177/2018/McKinseyFinal.pdf
+		https://github.com/wangzongyan/Default-of-credit-card-clients-Data-Project/blob/master/The%20comparisons%20of%20data%20mining%20techniques%20for%20the%20predictive%20accuracy%20of%20probability%20of%20default%20of%20credit%20card%20clients.pdf
+		http://inseaddataanalytics.github.io/INSEADAnalytics/CourseSessions/ClassificationProcessCreditCardDefault.html
+
+	presentation:
+		https://github.com/wangzongyan/Default-of-credit-card-clients-Data-Project/blob/master/stat-479-presentation.pdf
+				
+2. Census Income datasets:
+	kaggle: https://www.kaggle.com/bonbion/notebook39676457f2
+	dataset: https://archive.ics.uci.edu/ml/datasets/Census+Income
+	report: https://cseweb.ucsd.edu/classes/wi17/cse258-a/reports/a120.pdf
+			https://github.com/lmego/finding_donors
+			http://www.dataminingmasters.com/uploads/studentProjects/Earning_potential_report.pdf
+			https://faculty.biu.ac.il/~yahavi1/Projects/SG2010T4_rep.pdf
+			https://www.slideshare.net/joshkitlas/final-projectqianzhangkitlasist565census?from_action=save
+			
+Word document link:
+https://docs.google.com/document/d/1sz-ko3O-3vSrmDd2U4juEChGLdUgipgoRlX6uUKtudU/edit?ts=5bd789ef#
+
+Chapter 2:  Background
+
+Algorithms (6):
+
+- Logistic Regression
+- Naive Bayes
+- Support Vector Machines
+- Decision Trees
+- K - Nearest Neighbor Classifier
+- Neural Networks
+
