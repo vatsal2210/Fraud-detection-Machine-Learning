@@ -53,7 +53,7 @@ including
 The total number of customer based on defaulter and nondefaulter
 from a dataset.
 
-![No: of defaulters and non-defaulters]('./../graph/1.1.png')
+![No: of defaulters and non-defaulters](graph/1.1.png)
 
 ![Graph](graph/6.png)
 
@@ -89,7 +89,7 @@ Recall values.
 <a id="markdown-6-gui" name="6-gui"></a>
 ## 6. GUI
 
-![GUI](./graph/img.png)
+![GUI](./graph/image.png)
 
 <a id="markdown-7-summary" name="7-summary"></a>
 ## 7. SUMMARY
