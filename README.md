@@ -98,17 +98,14 @@ This would inform the issuer’s decisions on who to give a credit card to and w
 checking for data unbalancing, visualizing the features and understanding the relationship between different features. We used both train-validation split and cross-validation to evaluate the model effectiveness to predict the target value, i.e. detecting if a credit card client will default next month. We then investigated five predictive models: We started with Logistic Regression, Naïve bayes, SVM, KNN, Classification Tree and Feed-forward NN and Voting classifier accuracy is almost same. We choose based model Logistic regression based on minimum value of False Negative from confusion metrix.
 
 <a id="markdown-8-author" name="8-author"></a>
-## 8. Author
+<hr/>
+
+## Author
 
 **Vatsal Shah**
 
-[**PORTFOLIO**](https://vatsalshah.in)
+[**PORTFOLIO**](https://vatsalshah.in) | [**GITHUB**](https://github.com/vatsal2210) | [**BLOG**](https://vatsalshah.in/blog)
 
-[**GITHUB**](https://github.com/vatsal2210)
-
-[**BLOG**](https://medium.com/@vatsalshah2210)
-
-If you like my stuff and hate spam, I can send my upcoming articles to your inbox. One-click unsubscribe anytime.
-[**Click here to join my newsletter**](https://vatsalshah.substack.com/subscribe) 💌
+If you like my stuff and hate spam, I can send my upcoming articles to your inbox. One-click unsubscribe anytime — [**Click here to join my newsletter**](https://vatsalshah.substack.com/subscribe) 💌
 
 If you’re feeling generous today, you can [**buy me a coffee**](https://www.buymeacoffee.com/vatsalshah) ☕
